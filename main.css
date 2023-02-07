@@ -1,0 +1,38 @@
+body {
+  display: block;
+  margin: 0 auto;
+  font-family: "Inter", "Arial", sans-serif;
+  font-size: 32px;
+  line-height: 48px;
+  color: #1B55EA;
+  background-color: #F0EEEB;
+}
+
+h1 {
+  margin: 0 auto;
+  font-family: "Inter", "Arial", sans-serif;
+  font-size: 164px;
+  line-height: 164px;
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: none;
+  color: #EA7E1B;
+}
+
+img {
+    background-color: #F0EEEB;
+    border-radius: 16px;
+}
+
+.block {
+  margin: auto;
+  margin-top: 320px;
+  margin-bottom: 460px;
+  max-width: 1200px;
+}
+
+.description {
+  color: #ACAEB2;
+}
