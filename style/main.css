@@ -30,8 +30,8 @@ img {
   margin: auto;
   margin-top: 320px;
   margin-bottom: 460px;
-  margin-right: 40px;
-  margin-leeft: 40px;
+  padding-right: 40px;
+  padding-left: 40px;
   max-width: 1200px;
 }
 
